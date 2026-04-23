@@ -18,6 +18,8 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kartik-shete-a61831321)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/kartikshete)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white)](https://leetcode.com/u/kartikshete1698/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-%231F8ACB.svg?logo=codeforces&logoColor=white)](https://codeforces.com/profile/_-kartik_shete1698)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23FF5722.svg?logo=googlechrome&logoColor=white)](https://myypoortfolio8.netlify.app)
 
 <!-- 💻 Language & Technology -->

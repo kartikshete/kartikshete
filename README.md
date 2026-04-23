@@ -18,6 +18,7 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kartik-shete-a61831321)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/kartikshete)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF5722.svg?logo=googlechrome&logoColor=white)](https://myypoortfolio8.netlify.app)
 
 <!-- 💻 Language & Technology -->
 <h1 align="center">⚡ Language & Technologies</h1>
@@ -39,7 +40,7 @@
 <!-- Connect With Me -->
 <h2 align="center">🔗 Connect With Me</h2>
 <div align="center">
-  <a target="_blank" href="https://github.com/kartikshete"\>Visit🌐</a>&nbsp;&nbsp;
+  <a target="_blank" href="https://myypoortfolio8.netlify.app"\>Visit🌐</a>&nbsp;&nbsp;
 </div>
 <br/>
 

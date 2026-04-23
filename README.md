@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi, I'm Kartik Shete!</h1>
-  <h4 align="left">Software Engineer with experience building scalable, user-facing platforms using React, Node.js, Express, C++, Java, Python, SQL, and MongoDB, with a strong focus on clean architecture and modern web experiences.☕💻</h4>
+  <h4 align="left">Hey! I’m a developer who loves turning creative ideas into real, working products. Whether it's  designing sleek and responsive websites using React.js, or wiring up backend logic with Node.js, Express, and databases like MongoDB and SQL — I enjoy every bit of it. I believe in writing clean code, crafting engaging user experiences, and always pushing my skills to the next level..☕💻</h4>
 </div>
 
 <p align="center">

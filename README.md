@@ -25,7 +25,7 @@
 <!-- 💻 Language & Technology -->
 <h1 align="center">⚡ Language & Technologies</h1>
 <h2 align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,javascript,tailwind,nodejs,express,mongodb,mysql,git,github,figma,canva,database, ,excel,powerpoint,sublimetext,apiintegration,gitlab,fastapi,pandas,vscode">
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,javascript,tailwind,nodejs,express,mongodb,mysql,git,github,figma,canva,,excel,powerpoint,sublimetext,apiintegration,gitlab,fastapi,pandas,vscode">
 </h2>
 
 <!-- Github Statistics -->
